@@ -1,0 +1,10 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+google-generativeai
+textblob
+imbalanced-learn
+scikit-learn
+ipykernel
+jupyter
